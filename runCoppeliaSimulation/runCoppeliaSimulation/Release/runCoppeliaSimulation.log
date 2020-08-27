@@ -1,0 +1,65 @@
+﻿  quadruped.cpp
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.hpp(70): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.hpp(71): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.hpp(72): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.hpp(73): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.hpp(74): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.hpp(77): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.hpp(78): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.hpp(79): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(520): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(521): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(522): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(525): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(526): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(527): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(530): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(531): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(532): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(535): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(536): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.cpp(537): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  runCoppeliaSimulation-testFootPosControl.cpp
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.hpp(70): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.hpp(71): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.hpp(72): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.hpp(73): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.hpp(74): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.hpp(77): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.hpp(78): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.hpp(79): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\runcoppeliasimulation-testfootposcontrol.cpp(211): warning C4005: “PI”: 宏重定义
+  c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\quadruped.hpp(6): note: 参见“PI”的前一个定义
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\runcoppeliasimulation-testfootposcontrol.cpp(259): warning C4305: “参数”: 从“double”到“simxFloat”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\runcoppeliasimulation-testfootposcontrol.cpp(351): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\runcoppeliasimulation-testfootposcontrol.cpp(352): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\runcoppeliasimulation-testfootposcontrol.cpp(366): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\runcoppeliasimulation-testfootposcontrol.cpp(367): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\runcoppeliasimulation-testfootposcontrol.cpp(381): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\runcoppeliasimulation-testfootposcontrol.cpp(382): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\runcoppeliasimulation-testfootposcontrol.cpp(396): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\runcoppeliasimulation-testfootposcontrol.cpp(397): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\runcoppeliasimulation-testfootposcontrol.cpp(420): warning C4305: “参数”: 从“double”到“simxFloat”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\runcoppeliasimulation-testfootposcontrol.cpp(428): warning C4305: “参数”: 从“double”到“simxFloat”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\runcoppeliasimulation-testfootposcontrol.cpp(436): warning C4305: “参数”: 从“double”到“simxFloat”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\runcoppeliasimulation-testfootposcontrol.cpp(444): warning C4305: “参数”: 从“double”到“simxFloat”截断
+c:\users\ahl19\documents\my_gitrepos\quadrupedcontrol\runcoppeliasimulation\runcoppeliasimulation\runcoppeliasimulation-testfootposcontrol.cpp(233): warning C4101: “jointTorques”: 未引用的局部变量
+    正在创建库 C:\Users\ahl19\Documents\my_gitRepos\QuadrupedControl\runCoppeliaSimulation\Release\runCoppeliaSimulation.lib 和对象 C:\Users\ahl19\Documents\my_gitRepos\QuadrupedControl\runCoppeliaSimulation\Release\runCoppeliaSimulation.exp
+  正在生成代码
+  9 of 247 functions ( 3.6%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  runCoppeliaSimulation.vcxproj -> C:\Users\ahl19\Documents\my_gitRepos\QuadrupedControl\runCoppeliaSimulation\Release\runCoppeliaSimulation.exe
